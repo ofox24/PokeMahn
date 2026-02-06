@@ -8,6 +8,9 @@ Pokemahn is a project built in the Godot engine, incorporating C#, which is a si
 
 This project is a non-commercial, educational prototype created for learning and portfolio purposes.
 
-Pokémon, Pokémon names, characters, and related images are trademarks and copyrights of Nintendo, Game Freak, and The Pokémon Company. All Pokémon-related assets used in this project are for educational demonstration only and are not intended for commercial use.
+Pokémon, Pokémon names, characters, and related images are trademarks and copyrights 
+of Nintendo, Game Freak, and The Pokémon Company. All Pokémon-related assets used in this project are for educational demonstration only and are not intended for commercial use.
 
 Original code, systems, and game logic were developed by Owen Fox with help from A Nerdy Canuck's youtube.
+
+![Slide1](https://github.com/user-attachments/assets/588484d0-f48a-4245-84f4-c09380d25e39)
